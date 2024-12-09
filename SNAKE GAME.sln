@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SNAKE GAME", "SNAKE GAME.vcxproj", "{E0E87870-3F6A-40BD-94A2-3C89DA77D512}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0E87870-3F6A-40BD-94A2-3C89DA77D512}.Debug|x64.ActiveCfg = Debug|x64
+		{E0E87870-3F6A-40BD-94A2-3C89DA77D512}.Debug|x64.Build.0 = Debug|x64
+		{E0E87870-3F6A-40BD-94A2-3C89DA77D512}.Debug|x86.ActiveCfg = Debug|Win32
+		{E0E87870-3F6A-40BD-94A2-3C89DA77D512}.Debug|x86.Build.0 = Debug|Win32
+		{E0E87870-3F6A-40BD-94A2-3C89DA77D512}.Release|x64.ActiveCfg = Release|x64
+		{E0E87870-3F6A-40BD-94A2-3C89DA77D512}.Release|x64.Build.0 = Release|x64
+		{E0E87870-3F6A-40BD-94A2-3C89DA77D512}.Release|x86.ActiveCfg = Release|Win32
+		{E0E87870-3F6A-40BD-94A2-3C89DA77D512}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9739AA5-0403-40CF-BE16-B3C4765AC265}
+	EndGlobalSection
+EndGlobal
