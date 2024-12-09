@@ -4,31 +4,32 @@ A classic Snake Game implemented in C++ using SFML (Simple and Fast Multimedia L
 Players navigate a snake to eat food/foods while avoiding collisions, with increasing difficulty as the snake grows.
 
 🎮 Features
-Multiple Levels: Choose your level at the start—higher levels mean faster snake movement.
-Classic Gameplay: A very simple mechanics with smooth graphics.
-Clean UI: A user-friendly home screen to select levels.
-🚀 Installation
-Follow the steps below to compile : 
-1.Install SFML
+Multiple Levels: Choose your level at the start—higher levels mean faster snake movement.<br>
+Classic Gameplay: A very simple mechanics with smooth graphics.<br>
+Clean UI: A user-friendly home screen to select levels.<br>
 
-Download SFML from the official website: [SFML Downloads](https://www.sfml-dev.org/download.php).
-Extract it to a preferred directory (e.g., D:/SFML-2.6.1).
+🚀 Installation:<br>
+Follow the steps below to compile : <br>
+1.Install SFML<br>
 
-2.Configure Environment PATH:
+Download SFML from the official website: [SFML Downloads](https://www.sfml-dev.org/download.php).<br>
+Extract it to a preferred directory (e.g., D:/SFML-2.6.1).<br>
 
-Navigate to the Debugging section in the project properties.
-In the Environment area, add the following:
-"PATH=D:\SFML-2.6.1\bin"(Without quotes)
-Replace "PATH=D:\SFML-2.6.1\bin" with the location of your SFML bin folder.
+2.Configure Environment PATH:<br>
 
-3.Set Include Directories:
+Navigate to the Debugging section in the project properties.<br>
+In the Environment area, add the following:<br>
+"PATH=D:\SFML-2.6.1\bin"(Without quotes)<br>
+Replace "PATH=D:\SFML-2.6.1\bin" with the location of your SFML bin folder.<br>
 
-Go to C/C++ → Additional Include Directories.
-Update the path to point to your SFML include folder.
-(Initially, it may be set to "D:/SFML-2.6.1/include").
+3.Set Include Directories:<br>
 
-4.Set Library Directories:
+Go to C/C++ → Additional Include Directories.<br>
+Update the path to point to your SFML include folder.<br>
+(Initially, it may be set to "D:/SFML-2.6.1/include").<br>
 
-Go to Linker → Additional Library Directories.
-Update the path to point to your SFML library folder.
-(Initially, it may be set to "D:/SFML-2.6.1/lib").
+4.Set Library Directories:<br>
+
+Go to Linker → Additional Library Directories.<br>
+Update the path to point to your SFML library folder.<br>
+(Initially, it may be set to "D:/SFML-2.6.1/lib").<br>
