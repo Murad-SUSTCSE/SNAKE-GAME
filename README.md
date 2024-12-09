@@ -1,5 +1,4 @@
-# SNAKE GAME
-🐍 Snake Game
+# 🐍  SNAKE GAME
 A classic Snake Game implemented in C++ using SFML (Simple and Fast Multimedia Library).
 
 Players navigate a snake to eat food/foods while avoiding collisions, with increasing difficulty as the snake grows.
